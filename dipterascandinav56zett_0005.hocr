@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dipterascandinav56zett_0005.png"; bbox 0 0 1793 3131; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 858 17 1552 238">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 858 17 1552 238">
+     <span class='ocr_line' id='line_1_1' title="bbox 858 17 1552 238; baseline -0.017 -12"><span class='ocrx_word' id='word_1_1' title='bbox 858 17 960 217; x_wconf 47' lang='lat' dir='ltr'><em>J</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1188 196 1225 238; x_wconf 78' lang='grc' dir='ltr'>Α,</span> <span class='ocrx_word' id='word_1_3' title='bbox 1252 193 1290 231; x_wconf 83' lang='grc' dir='ltr'>ι..</span> <span class='ocrx_word' id='word_1_4' title='bbox 1317 176 1552 226; x_wconf 53' lang='lat' dir='ltr'>mim—⁴058</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1169 251 1570 377">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1169 251 1570 377">
+     <span class='ocr_line' id='line_1_2' title="bbox 1169 251 1570 317; baseline -0.05 -4"><span class='ocrx_word' id='word_1_5' title='bbox 1169 275 1263 317; x_wconf 76' lang='lat' dir='ltr'>from</span> <span class='ocrx_word' id='word_1_6' title='bbox 1289 267 1345 306; x_wconf 55' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_7' title='bbox 1370 262 1507 308; x_wconf 52' lang='lat' dir='ltr'>Libram</span> <span class='ocrx_word' id='word_1_8' title='bbox 1532 251 1570 294; x_wconf 74' lang='lat' dir='ltr'>of</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1206 313 1540 377; baseline -0.054 0"><span class='ocrx_word' id='word_1_9' title='bbox 1206 337 1241 377; x_wconf 69' lang='lat'>2.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1269 332 1313 373; x_wconf 65' lang='lat' dir='ltr'>ffl.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1344 313 1540 368; x_wconf 69' lang='lat' dir='ltr'>Amfficfl</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
